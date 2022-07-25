@@ -1,6 +1,6 @@
 print("hello world")
 
-def testing(a):
-    print("hi",a)
+def testing(a,b):
+    print("hi",a,b)
 
-testing("DADF")
+testing("DADF","!!")
